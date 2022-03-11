@@ -30,3 +30,28 @@ void get_shell()
 {
     system("/bin/sh");
 }
+
+int main()
+{
+    char name[20];
+    int age = 1;
+
+    initialize();
+
+    printf("Name: ");
+    read_str(name, 20);
+
+    printf("Are you baby?");
+
+    if (age == 0)
+    {
+        get_shell();
+    }
+    else
+    {
+        printf("Ok, chance: \n");
+        read(0, name, 20);
+    }
+
+    return 0;
+}
