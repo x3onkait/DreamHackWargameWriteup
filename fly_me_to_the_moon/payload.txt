@@ -1,0 +1,15 @@
+POST /high-scores.php HTTP/1.1
+Host: host1.dreamhack.games:18169
+Content-Length: 18
+Accept: */*
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://host1.dreamhack.games:18169
+Referer: http://host1.dreamhack.games:18169/
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: PHPSESSID=8soefl73se38g4d4jrh6juqp60
+Connection: close
+
+token=5413&score=1
